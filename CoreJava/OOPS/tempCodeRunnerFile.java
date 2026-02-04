@@ -1,0 +1,1 @@
+ // A.B obj = new A.B();
